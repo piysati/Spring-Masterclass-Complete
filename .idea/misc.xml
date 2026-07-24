@@ -5,6 +5,9 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/1.basic-springboot-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/2.IoC-DI/pom.xml" />
+        <option value="$PROJECT_DIR$/2.basic-springboot-ioc-di/pom.xml" />
+        <option value="$PROJECT_DIR$/3.basic-springboot-restapi/pom.xml" />
       </list>
     </option>
   </component>
