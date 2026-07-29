@@ -8,6 +8,11 @@
         <option value="$PROJECT_DIR$/2.IoC-DI/pom.xml" />
         <option value="$PROJECT_DIR$/2.basic-springboot-ioc-di/pom.xml" />
         <option value="$PROJECT_DIR$/3.basic-springboot-restapi/pom.xml" />
+        <option value="$PROJECT_DIR$/4.basic-springboot-dbconnection/pom.xml" />
+        <option value="$PROJECT_DIR$/5.springboot-controller-restcontroller/pom.xml" />
+        <option value="$PROJECT_DIR$/6.springboot-datajpa-jpa-hibernate/springboot-datajpa-jpa-hibernate/pom.xml" />
+        <option value="$PROJECT_DIR$/6.springboot-datajpa-jpa-hibernate/pom.xml" />
+        <option value="$PROJECT_DIR$/7.springboot-transactions/pom.xml" />
       </list>
     </option>
   </component>

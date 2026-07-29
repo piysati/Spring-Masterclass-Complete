@@ -7,8 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="basic-springboot-restapi" />
-        <module name="basic-springboot-demo" />
+        <module name="springboot-datajpa-jpa-hibernate" />
         <module name="basic-springboot-ioc-di" />
+        <module name="springboot-controller-restcontroller" />
+        <module name="springboot-transaction" />
+        <module name="basic-springboot-demo" />
+        <module name="basic-springboot-dbconnection" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -18,9 +22,13 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="IoC-DI" options="-parameters" />
+      <module name="basic-springboot-dbconnection" options="-parameters" />
       <module name="basic-springboot-demo" options="-parameters" />
       <module name="basic-springboot-ioc-di" options="-parameters" />
       <module name="basic-springboot-restapi" options="-parameters" />
+      <module name="springboot-controller-restcontroller" options="-parameters" />
+      <module name="springboot-datajpa-jpa-hibernate" options="-parameters" />
+      <module name="springboot-transaction" options="-parameters" />
     </option>
   </component>
 </project>

@@ -5,5 +5,10 @@
     <file url="file://$PROJECT_DIR$/2.IoC-DI/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/2.basic-springboot-ioc-di/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/3.basic-springboot-restapi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4.basic-springboot-dbconnection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/5.springboot-controller-restcontroller/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/6.springboot-datajpa-jpa-hibernate/springboot-datajpa-jpa-hibernate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/6.springboot-datajpa-jpa-hibernate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/7.springboot-transactions/src/main/java" charset="UTF-8" />
   </component>
 </project>
